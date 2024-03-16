@@ -1,6 +1,6 @@
 # Vrinda-Store-Sales-Insights-2022
 
-Dashboard link - [Dashboard]((https://www.novypro.com/project/vrinda-store-analysis-2022-dashboard))
+Dashboard link - [Dashboard](https://www.novypro.com/project/vrinda-store-analysis-2022-dashboard)
 ## Overview 
 Vrinda store wants to create annual sales report for 2022, so that the store can have better understanding of what customers requirements are in 2023 so accordingly the store can take informed decisions which can eventually boost their business. So they decided to take help of data anlyst to analyse data of 2022 to analyze trends of 2023.
 
